@@ -9,9 +9,9 @@ This repository showcases my blogs, projects, and continuous journey in web deve
 
 Follow me for learning updates and tech content:
 
-* 🐦 X (Twitter): [https://x.com/your_handle_here](https://x.com/VaibhavWaghmo15)
+* 🐦 X (Twitter): [https://x.com/VaibhavWaghmo15](https://x.com/VaibhavWaghmo15)
 * ✍️ Hashnode: [https://vaibhav5122.hashnode.dev](https://hashnode.com/@Vaibhav5122)
-* 💻 GitHub: [https://github.com/your_username_here](https://github.com/Vaibhav5122/Cohort-26/tree/main)
+* 💻 GitHub: [https://github.com/Vaibhav5122](https://github.com/Vaibhav5122/Cohort-26/tree/main)
 
 ---
 
