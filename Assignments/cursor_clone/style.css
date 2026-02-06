@@ -1,0 +1,106 @@
+:root{
+    --background-color:rgb(20, 18, 11); /* #000000 */
+    --btn-background:#fff;
+    --btn-color:#14120b;
+    --default-font-family: ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--background-color);
+    color: #ffffffdd;
+    font-family: var(--default-font-family);
+}
+.container{
+    margin: 0 200px;
+    /* max-width: 768px; */
+    /* display: flex; */
+    /* flex-direction: column ; */
+    /* align-items: center; */
+    /* align-content: center; */
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+.logo{
+    /* fill: #FFFFFF; */
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(106deg) brightness(104%) contrast(103%);
+    width: 100px;
+}
+
+div .bar{
+    /* display: flex; */
+}
+.items{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-size: small;
+    gap: 40px;
+}
+.top-btn{
+    gap: 5px;
+
+}
+.btn{
+   border: 1px solid grey; 
+   background-color: transparent;
+   color: #fff;
+   padding: 5px 10px;
+   border-radius: 25px;
+    font-size: 14px;
+    
+   
+}
+.btndown{
+    background-color: var(--btn-background);
+    color: var(--background-color);
+   
+}
+.page{
+    margin: 120px 0;
+}
+.contenth1{
+    font-weight: 380;
+    font-size: 27px;
+    width: 550px;
+}
+.pagebtncontainer{
+    display: flex;
+    align-items: center;
+    /* padding-right: 30px; */
+    padding: 13px 30px;
+    margin: 30px 0;
+    background-color: var(--btn-background);
+    color: var(--btn-color);
+    border-radius: 30px;
+    width: 150px;
+    border: none;
+    align-items: center;
+    /* display: inline; */
+    gap: 2px;
+    cursor:pointer;
+}
+.page1down{
+    /* padding: 10px 30px;
+    margin: 20px 0;
+    background-color: var(--btn-background);
+    color: var(--background-color);
+    font-size: 17px;
+    border-radius: 30px; */
+    /* width: fit-content; */
+    font-size: 1rem;
+    font-weight: 400;
+    width: max-content;
+    border: none;
+    background-color: transparent;
+    margin: 10px;
+    
+
+}
