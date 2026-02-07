@@ -1,17 +1,18 @@
-# Resume Website (HTML Only)
+# Mintlify_Clone Website
 
 ## 📌 Description
 
-This is a simple resume website created using **pure HTML only**.
-It displays personal details, skills, experience, projects, and contact information.
+This is a mintlify clone website created using **pure HTML & CSS only**.
+It displays CSS hover effects and blur and multiple good practices of HTML & CSS
 
 ## 🚀 Live Demo
 
-View Project: [https://portfolio-psi-eight-84.vercel.app](https://portfolio-psi-eight-84.vercel.app)
+View Project: [Mintlify-Clone](https://mintlify-clone-self.vercel.app)
 
 ## 🛠️ Technology
 
-* HTML5
+- HTML5
+- CSS
 
 ## ▶️ Usage
 
