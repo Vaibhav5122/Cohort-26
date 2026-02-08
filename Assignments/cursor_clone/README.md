@@ -1,4 +1,4 @@
-# Cursor-Clone Website 
+# Cursor-Clone Website
 
 ## 📌 Description
 
@@ -7,12 +7,12 @@ It displays hover effects and all small details looks like original website.
 
 ## 🚀 Live Demo
 
-View Project: [Cursor-Clone](https://cursor-clone-kixn47s45-vaibhavs-projects-6834691d.vercel.app)
+View Project: [Cursor-Clone](https://cursor-clone-pi-seven.vercel.app)
 
 ## 🛠️ Technology
 
-* HTML5
-* CSS
+- HTML5
+- CSS
 
 ## ▶️ Usage
 
